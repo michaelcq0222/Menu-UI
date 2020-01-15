@@ -1,0 +1,24 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.side {
+  display: flex;
+}
+
+.left {
+  width: 360px;
+}
+.right {
+  margin-right: 60px;
+}
+.table {
+  width: 600px;
+}
+table,
+td,
+th {
+  text-align: left;
+  border-collapse: collapse;
+  border: 1px solid black;
+}
